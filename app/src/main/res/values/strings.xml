@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">W3_Demo</string>
+    <string name="show_map_caption_ma1">string</string>
+<!--
+    put other strings here
+-->
+    <string-array name="my_courses_items">
+      <item>CSIT551</item>
+      <item>CSIT534</item>
+      <item>jdfhgsjh</item>
+    </string-array>>
+
+</resources>
